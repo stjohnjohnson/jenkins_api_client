@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "nokogiri", "~> 1.6.0"
+gem "nokogiri", "~> 1.18.5"
 gem "thor", ">= 0.16.0"
 gem "json", ">= 0"
 gem "terminal-table", ">= 1.4.0"
